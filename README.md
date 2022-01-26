@@ -1,18 +1,9 @@
-# Emoji Searcher App - React Introduction
+## Aplikasi Emoji
 
-## Happy coding!
+## Aplikasi ini dibuat dengan bahasa pemrograman Javascript yang menggunkan framework React JS
 
-##### Apa yang akan kamu pelajari dari app ini?
+## Aplikasi ini dibuat untuk mencari sebuah emoji yang siap pakai
 
-- Cara melakukan remote data fetching di React dengan axios
-- Cara menyesuaikan component yang di-render sesuai dengan proses fetching
-- React state management (dengan useState)
-- React life cycle (dengan useEffect)
-- Bagaimana cara mengupdate state di React
-- Event handling di React (onClick dan onChange)
-- Membuat aplikasi dengan banyak Components
-- Memberikan type untuk props dengan prop-types
-- CSS Module dan dynamic className dengan classnames
-- Melakukan sentuhan animasi dengan React dan CSS untuk UX
+## Versi 0.1
 
-&copy; wegodev | version 1.1.0
+## Dibuat Oleh Muhammad Ashari Abdillah
