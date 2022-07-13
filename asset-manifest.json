@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Aplikasi-Emoji/static/css/main.55b42155.chunk.css",
+    "main.js": "/Aplikasi-Emoji/static/js/main.d8350697.chunk.js",
+    "main.js.map": "/Aplikasi-Emoji/static/js/main.d8350697.chunk.js.map",
+    "runtime-main.js": "/Aplikasi-Emoji/static/js/runtime-main.899a4ac4.js",
+    "runtime-main.js.map": "/Aplikasi-Emoji/static/js/runtime-main.899a4ac4.js.map",
+    "static/js/2.1df5e0b8.chunk.js": "/Aplikasi-Emoji/static/js/2.1df5e0b8.chunk.js",
+    "static/js/2.1df5e0b8.chunk.js.map": "/Aplikasi-Emoji/static/js/2.1df5e0b8.chunk.js.map",
+    "index.html": "/Aplikasi-Emoji/index.html",
+    "static/css/main.55b42155.chunk.css.map": "/Aplikasi-Emoji/static/css/main.55b42155.chunk.css.map",
+    "static/js/2.1df5e0b8.chunk.js.LICENSE.txt": "/Aplikasi-Emoji/static/js/2.1df5e0b8.chunk.js.LICENSE.txt",
+    "static/media/emoji-icon.d338b090.svg": "/Aplikasi-Emoji/static/media/emoji-icon.d338b090.svg",
+    "static/media/search-icon.f071e5c8.svg": "/Aplikasi-Emoji/static/media/search-icon.f071e5c8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.899a4ac4.js",
+    "static/js/2.1df5e0b8.chunk.js",
+    "static/css/main.55b42155.chunk.css",
+    "static/js/main.d8350697.chunk.js"
+  ]
+}
